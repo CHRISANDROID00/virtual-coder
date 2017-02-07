@@ -1,0 +1,59 @@
+li:~# a.out
+bash: a.out: command not found
+root@kali:~# nano testz.cpp
+root@kali:~# g++ -o testz testz.cpp
+root@kali:~# ./testz
+Test yaww!
+root@kali:~#
+
+EXXAMPLE//
+
+#include<iostream>
+using namespace std;
+ int main() {
+
+   
+
+    cout<<"Test yaww!"<<endl;
+
+}
+
+00---------------------------------------DESC 
+
+NOTES-
+
+ g++ -o testz testz.cpp
+
+-----------------------------------------------------
+-0  [SHARED DEBUGG DATA COMPILER OPTIONS DEBUG  ]
+
+
+PARRELL SHARED  RESOURCE PROCESSING AND PROGRAM CONTROL FLOW AND EFFICENCY ] BUILDS PROGRAM 
+
+[PROTECTED INTERFACE SHARING MODES[
+
+[ PORTING TO GRAPHICAL SHARED C LIBRARIES ]
+
+-[SHARED DEBUGGING DATA LIBRAARY LINUX COMPLER  DEUG COMMAND
+
+
+author Esmond Lucan 
+----------------------------c++ cmpilation good
+
+
+li:~# a.out
+bash: a.out: command not found
+root@kali:~# nano testz.cpp
+root@kali:~# g++ -o testz testz.cpp
+root@kali:~# ./testz
+Test yaww!
+root@kali:~#
+	
+Click here to Reply or Forward
+4.68 GB (31%) of 15 GB used
+Manage
+Terms - Privacy
+Last account activity: 4 minutes ago
+Details
+	
+	
